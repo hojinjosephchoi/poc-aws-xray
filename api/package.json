@@ -8,7 +8,8 @@
     "deploy:prod": "serverless deploy --stage production"
   },
   "dependencies": {
-    "aws-xray-sdk": "^2.1.0"
+    "aws-xray-sdk": "^2.1.0",
+    "serverless-api-gateway-xray": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^10.12.18",
