@@ -32,3 +32,4 @@ plugins:
   - serverless-plugin-typescript
   - serverless-plugin-optimize
   - serverless-plugin-tracing
+  
